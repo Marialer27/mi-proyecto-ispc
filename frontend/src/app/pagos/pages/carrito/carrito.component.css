@@ -2,6 +2,51 @@ body{
     margin-top:20px;
     background:#f0a75f;
 }
+.btn-sample { 
+  color: #ffffff; 
+  background-color: #E0AB2F; 
+  border-color: #EB7A1E; 
+} 
+ 
+.btn-sample:hover, 
+.btn-sample:focus, 
+.btn-sample:active, 
+.btn-sample.active, 
+.open .dropdown-toggle.btn-sample { 
+  color: #ffffff; 
+  background-color: #D97320; 
+  border-color: #EB7A1E; 
+} 
+ 
+.btn-sample:active, 
+.btn-sample.active, 
+.open .dropdown-toggle.btn-sample { 
+  background-image: none; 
+} 
+ 
+.btn-sample.disabled, 
+.btn-sample[disabled], 
+fieldset[disabled] .btn-sample, 
+.btn-sample.disabled:hover, 
+.btn-sample[disabled]:hover, 
+fieldset[disabled] .btn-sample:hover, 
+.btn-sample.disabled:focus, 
+.btn-sample[disabled]:focus, 
+fieldset[disabled] .btn-sample:focus, 
+.btn-sample.disabled:active, 
+.btn-sample[disabled]:active, 
+fieldset[disabled] .btn-sample:active, 
+.btn-sample.disabled.active, 
+.btn-sample[disabled].active, 
+fieldset[disabled] .btn-sample.active { 
+  background-color: #E0AB2F; 
+  border-color: #EB7A1E; 
+} 
+ 
+.btn-sample .badge { 
+  color: #E0AB2F; 
+  background-color: #ffffff; 
+}
 .product-card {
   position: relative;
   max-width: 380px;
@@ -9,6 +54,51 @@ body{
   padding-bottom: 43px;
   transition: all 0.35s;
   border: 1px solid #e7e7e7;
+}
+.btn-sample2 { 
+  color: #6E5C5C; 
+  background-color: #E0EB07; 
+  border-color: #EB7A1E; 
+} 
+ 
+.btn-sample2:hover, 
+.btn-sample2:focus, 
+.btn-sample2:active, 
+.btn-sample2.active, 
+.open .dropdown-toggle.btn-sample2 { 
+  color: #6E5C5C; 
+  background-color: #D97320; 
+  border-color: #EB7A1E; 
+} 
+ 
+.btn-sample2:active, 
+.btn-sample2.active, 
+.open .dropdown-toggle.btn-sample2 { 
+  background-image: none; 
+} 
+ 
+.btn-sample2.disabled, 
+.btn-sample2[disabled], 
+fieldset[disabled] .btn-sample2, 
+.btn-sample2.disabled:hover, 
+.btn-sample2[disabled]:hover, 
+fieldset[disabled] .btn-sample2:hover, 
+.btn-sample2.disabled:focus, 
+.btn-sample2[disabled]:focus, 
+fieldset[disabled] .btn-sample2:focus, 
+.btn-sample2.disabled:active, 
+.btn-sample2[disabled]:active, 
+fieldset[disabled] .btn-sample2:active, 
+.btn-sample2.disabled.active, 
+.btn-sample2[disabled].active, 
+fieldset[disabled] .btn-sample2.active { 
+  background-color: #E0EB07; 
+  border-color: #EB7A1E; 
+} 
+ 
+.btn-sample2 .badge { 
+  color: #E0EB07; 
+  background-color: #6E5C5C; 
 }
 .product-card .product-head {
   padding: 0 15px 8px;
@@ -50,7 +140,7 @@ body{
   text-decoration: none;
 }
 .product-card .product-title > a:hover {
-  color: #ac32e4;
+  color: #EB7A1E;
 }
 .product-card .product-price {
   display: block;
@@ -99,7 +189,7 @@ body{
   text-decoration: none;
 }
 .product-card .product-button > a:hover {
-  background-color: #ac32e4;
+  background-color: #EB7A1E;
   color: #fff;
 }
 .product-card:hover {
@@ -155,7 +245,7 @@ body{
   font-size: 18px;
 }
 .product-category-card:hover .product-category-card-title {
-  color: #ac32e4;
+  color: #EB7A1E;
 }
 .product-gallery {
   position: relative;
@@ -208,7 +298,7 @@ body{
   opacity: 1;
 }
 .product-gallery .product-thumbnails > li.active > a {
-  border-color: #ac32e4;
+  border-color: #EB7A1E;
   cursor: default;
   opacity: 1;
 }
@@ -282,7 +372,7 @@ body{
   font-weight: bold;
 }
 .cart-item .cart-item-product:hover .cart-item-product-title {
-  color: #ac32e4;
+  color: #EB7A1E;
 }
 .cart-item .count-input {
   display: inline-block;
@@ -361,7 +451,7 @@ body{
   text-decoration: none;
 }
 .comparison-table .comparison-item .comparison-item-title:hover {
-  color: #ac32e4;
+  color: #EB7A1E;
 }
 .remove-item {
   display: block;
