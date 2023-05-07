@@ -56,7 +56,7 @@ fieldset[disabled] .btn-sample.active {
   border: 1px solid #e7e7e7;
 }
 .btn-sample2 { 
-  color: #ffffff; 
+  color: #6E5C5C; 
   background-color: #E0EB07; 
   border-color: #EB7A1E; 
 } 
@@ -66,7 +66,7 @@ fieldset[disabled] .btn-sample.active {
 .btn-sample2:active, 
 .btn-sample2.active, 
 .open .dropdown-toggle.btn-sample2 { 
-  color: #ffffff; 
+  color: #6E5C5C; 
   background-color: #D97320; 
   border-color: #EB7A1E; 
 } 
@@ -98,7 +98,7 @@ fieldset[disabled] .btn-sample2.active {
  
 .btn-sample2 .badge { 
   color: #E0EB07; 
-  background-color: #ffffff; 
+  background-color: #6E5C5C; 
 }
 .product-card .product-head {
   padding: 0 15px 8px;
@@ -140,7 +140,7 @@ fieldset[disabled] .btn-sample2.active {
   text-decoration: none;
 }
 .product-card .product-title > a:hover {
-  color: #ac32e4;
+  color: #EB7A1E;
 }
 .product-card .product-price {
   display: block;
@@ -189,7 +189,7 @@ fieldset[disabled] .btn-sample2.active {
   text-decoration: none;
 }
 .product-card .product-button > a:hover {
-  background-color: #ac32e4;
+  background-color: #EB7A1E;
   color: #fff;
 }
 .product-card:hover {
@@ -245,7 +245,7 @@ fieldset[disabled] .btn-sample2.active {
   font-size: 18px;
 }
 .product-category-card:hover .product-category-card-title {
-  color: #ac32e4;
+  color: #EB7A1E;
 }
 .product-gallery {
   position: relative;
@@ -298,7 +298,7 @@ fieldset[disabled] .btn-sample2.active {
   opacity: 1;
 }
 .product-gallery .product-thumbnails > li.active > a {
-  border-color: #ac32e4;
+  border-color: #EB7A1E;
   cursor: default;
   opacity: 1;
 }
@@ -372,7 +372,7 @@ fieldset[disabled] .btn-sample2.active {
   font-weight: bold;
 }
 .cart-item .cart-item-product:hover .cart-item-product-title {
-  color: #ac32e4;
+  color: #EB7A1E;
 }
 .cart-item .count-input {
   display: inline-block;
@@ -451,7 +451,7 @@ fieldset[disabled] .btn-sample2.active {
   text-decoration: none;
 }
 .comparison-table .comparison-item .comparison-item-title:hover {
-  color: #ac32e4;
+  color: #EB7A1E;
 }
 .remove-item {
   display: block;
